@@ -1,0 +1,15 @@
+---
+title: Hide Out | Restaurant
+subtitle: 
+layout: default
+modal-id: 3
+date: 2019-07-13
+img: 'https://www.youtube.com/embed/O9YC1-6yueU?autoplay=1&mute=1&showinfo=0&controls=0&loop=1&list=PL4ZHc1f3Rxy0eBVQSfZISeTM_SNBBcpPI&amp'
+thumbnail: HideOUT.jpg
+alt: image-alt
+project-date: April 2019
+client: HideOut
+category: Video
+description: Hide Out | Video Restaurant
+
+---
