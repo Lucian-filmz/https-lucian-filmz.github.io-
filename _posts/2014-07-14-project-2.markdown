@@ -1,0 +1,15 @@
+---
+title: Burger B-Roll
+subtitle: 
+layout: default
+modal-id: 2
+date: 2014-07-14
+img: 'https://www.youtube.com/embed/16FRdXYnSx8?autoplay=1&mute=1&showinfo=0&controls=0&loop=1&list=PL4ZHc1f3Rxy20PmNrXbfAwWqNBCbHdpLe&amp'
+thumbnail: 2.jpg
+alt: image-alt
+project-date: April 2014
+client: Waterloo Taverne
+category: Video
+description: Burger video using B-Roll effect
+
+---

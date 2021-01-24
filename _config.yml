@@ -1,1 +1,36 @@
-theme: jekyll-theme-cayman
+url: https://y7kim.github.io
+baseurl: /
+
+# Site settings
+title: Filmz | Lucian Suhan
+email: lucian.suhan@gmail.com
+description: "Filmz.ro delivers quality video and photo content for marketing campaigns. Bucharest, Romania."
+
+
+# Team names, titles and social links
+people:
+
+- name: Lucian Suhan
+  pic: 1
+  position: Video Creator
+  social: {}
+
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: facebook
+    url: https://www.facebook.com/suhan.lucian
+  - title: instagram
+    url: https://www.instagram.com/filmzstudio/
+  - title: youtube
+    url: https://www.youtube.com/user/skateluci1
+
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 3481 Melrose Place
+  - line: Beverly Hills, CA 90210
+
+# Build settings
+markdown: kramdown
+permalink: pretty

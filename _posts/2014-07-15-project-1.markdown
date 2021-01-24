@@ -1,0 +1,15 @@
+---
+title: Mussels B-Roll
+subtitle: 
+layout: default
+modal-id: 1
+date: 2014-07-15
+img: 'https://www.youtube.com/embed/iUNNvdq4-d0?autoplay=1&mute=1&showinfo=0&controls=0&loop=1&list=PL4ZHc1f3Rxy0Xg-ADyCONyxwZfFDSdgd0&amp'
+thumbnail: 1.jpg
+alt: image-alt
+project-date: April 2014
+client: Waterloo Taverne
+category: Video
+description: Mussels video using B-Roll effect
+
+---
