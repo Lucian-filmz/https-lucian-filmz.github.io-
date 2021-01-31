@@ -13,6 +13,25 @@ $(function() {
         }, 1500, 'easeInOutExpo');
         event.preventDefault();
     });
+
+    $('.modal').on('hidden.bs.modal', function (e) {
+        // Mute video   
+       var modalId = this.getAttribute("data-modal-id");
+       var iframeID = '#modal-iframe-'+ modalId
+
+       //send mute event to iFrame
+       var res = $(iframeID)[0].contentWindow.postMessage('{"event":"command","func":"mute","args":""}', '*');
+
+    });
+
+    $('.modal').on('show.bs.modal', function(e) {
+        //Unmute video
+        var modalId = this.getAttribute("data-modal-id");
+        var iframeID = '#modal-iframe-'+ modalId
+              
+        //send mute event to iFrame
+        var res = $(iframeID)[0].contentWindow.postMessage('{"event":"command","func":"unMute","args":""}', '*');
+    });
 });
 
 // Highlight the top nav as scrolling occurs
@@ -35,3 +54,4 @@ $('div.modal').on('show.bs.modal', function() {
 		}
 	}
 });
+

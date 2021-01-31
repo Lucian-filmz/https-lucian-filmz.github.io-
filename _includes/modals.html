@@ -1,14 +1,14 @@
  <!-- Portfolio Modals -->
  {% for post in site.posts %}
-    <div class="portfolio-modal modal" id="portfolioModal{{ post.modal-id }}" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="portfolio-modal modal" data-target="#portfolioModal{{ post.modal-id }}" id="portfolioModal{{ post.modal-id }}" data-modal-id="{{ post.modal-id }}" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-content">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
-                        <div class="modal-body">
+                        <div class="modal-body" id="modal-body-video">
                             <h2>{{ post.title }}</h2>
                             <hr class="star-primary">
-                            <iframe class="model-iframe" src="{{ post.img }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            <iframe id="modal-iframe-{{ post.modal-id }}" class="model-iframe" src="{{ post.img }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                             <p>{{ post.description }}</p>
                             <ul class="list-inline item-details">
                                 <li>Client:
@@ -24,7 +24,7 @@
                                     </strong>
                                 </li>
                             </ul>
-                            <button type="button" class="btn btn-default btn-modal" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                            <button id="video-modal-close-{{ post.modal-id }}" type="button" class="btn btn-default btn-modal" data-dismiss="modal" autofocus><i class="fa fa-times"></i> Close</button>
                         </div>
                     </div>
                 </div>

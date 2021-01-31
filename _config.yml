@@ -2,7 +2,7 @@ url: https://y7kim.github.io
 baseurl: /
 
 # Site settings
-title: Filmz | Lucian Suhan
+title: Filmz - Video Production
 email: lucian.suhan@gmail.com
 description: "Filmz.ro delivers quality video and photo content for marketing campaigns. Bucharest, Romania."
 
@@ -25,11 +25,6 @@ social:
   - title: youtube
     url: https://www.youtube.com/user/skateluci1
 
-
-# Postal address (add as many lines as necessary)
-address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
 
 # Build settings
 markdown: kramdown
