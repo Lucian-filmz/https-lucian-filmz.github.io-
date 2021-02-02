@@ -1,0 +1,15 @@
+---
+title: Carla's Dreams - Ne Bucurăm În Ciuda Lor
+subtitle: 
+layout: default
+modal-id: 6
+date: 2018-11-27
+img: 'https://www.youtube.com/embed/aRRsT29ANFo?autoplay=1&mute=0&showinfo=0&loop=1&list=PL4ZHc1f3Rxy3USDN6u8au5KyxUZOlnHOv&enablejsapi=1&amp'
+thumbnail: carlas.jpg
+alt: image-alt
+project-date: April 2018
+client: Berăria H
+category: Video
+description: Carla's Dreams - Ne Bucurăm În Ciuda Lor 🔴 LIVE @ Berăria H 
+
+---
