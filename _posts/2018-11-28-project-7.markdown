@@ -1,0 +1,15 @@
+---
+title: ANTONIA - Marabou
+subtitle: 
+layout: default
+modal-id: 7
+date: 2018-11-27
+img: 'https://www.youtube.com/embed/gjnZRnYnl60?autoplay=1&mute=0&showinfo=0&loop=1&list=PL4ZHc1f3Rxy3smTYKA8nuMPiaeT5AuZ1d&enablejsapi=1&amp'
+thumbnail: antonia.jpg
+alt: image-alt
+project-date: April 2018
+client: Berăria H
+category: Video
+description: ANTONIA interpretând hit-ul "Marabou" în concert LIVE @ Berăria H.
+
+---
