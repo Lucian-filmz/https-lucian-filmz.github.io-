@@ -220,7 +220,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .nav li a:hover,
 .navbar-default .nav li a:focus {
     outline: 0;
-    color: color: #ff6207 !important;
+    color: #ff6207 !important;
     transform: translateY(-3px);
 }
 
