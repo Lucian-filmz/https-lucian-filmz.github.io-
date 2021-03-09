@@ -1032,6 +1032,7 @@ body {
     padding: 125px 0px;
     margin: 0px;
     width: 100%; 
+    background-attachment: fixed;
 }
     
 /* END my CSS */    
