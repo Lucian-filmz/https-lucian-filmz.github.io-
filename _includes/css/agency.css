@@ -1017,13 +1017,22 @@ body {
 #services{
     color: white;
     margin-top: 150px;
-    margin-bottom: 100px;
+    margin-bottom: 0px;
     padding: 0px !important;
 }
 .services-text{
     margin: 0 auto;
     width: 400px;
 }    
+
+.section-parallax{
+    background-image: url("img/photo-grid/DSC071234.jpg");
+    background-size: cover;
+    background-position: center;
+    padding: 125px 0px;
+    margin: 0px;
+    width: 100%; 
+}
     
 /* END my CSS */    
     
