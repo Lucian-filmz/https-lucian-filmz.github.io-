@@ -7,7 +7,7 @@
 body {
     overflow-x: hidden;
     font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
-    color: #{{ site.data.template.color.secondary-dark }};
+    color: #000 !important;
 }
 
 .text-muted {
@@ -219,7 +219,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .nav li a:hover,
 .navbar-default .nav li a:focus {
     outline: 0;
-    color: color: #ff6207;
+    color: color: #ff6207 !important;
     transform: translateY(-3px);
 }
 
@@ -350,11 +350,6 @@ section h3.section-subheading {
     section {
         padding: 150px 0;
     }
-}
-
-#services{
-    background: black;
-    color: white;
 }
 
 .service-heading {
@@ -1010,3 +1005,23 @@ body {
     padding-top: 3%;
     padding-bottom: 3%;
 }
+
+/* Abi CSS */
+
+#services h2{
+    font-size: 60px;
+}
+#services{
+    color: white;
+    margin-top: 150px;
+    margin-bottom: 100px;
+    padding: 0px !important;
+}
+.services-text{
+    margin: 0 auto;
+    width: 400px;
+}    
+    
+/* END my CSS */    
+    
+    
