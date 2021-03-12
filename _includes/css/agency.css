@@ -1021,6 +1021,10 @@ body {
     margin-bottom: 100px;
     padding: 0px !important;
 }
+#services img:first-of-type{
+    width: 80px;
+    margin: 0 auto;
+}
 .services-text{
     margin: 0 auto;
     width: 450px;
