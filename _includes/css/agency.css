@@ -974,6 +974,8 @@ body {
   .header-photo{
     color: white;
     text-align: center;
+    margin-top: 100px;
+    padding-bottom: 30px;
   }
 
   /* Responsive layout - makes a two column-layout instead of four columns */
