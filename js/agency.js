@@ -55,10 +55,6 @@ $('div.modal').on('show.bs.modal', function() {
 	}
 });
 
-$(window).scroll(function(){
-    $(".absolute-transform").css("top", Math.max(0, 250 - $(this).scrollTop()));
-});
-
 
 
 
