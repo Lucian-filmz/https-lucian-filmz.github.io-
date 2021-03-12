@@ -76,6 +76,6 @@ $.fn.followTo = function ( pos ) {
     });
 };
 
-$('.absolute-transform').followTo(250);
+$('.absolute-transform').followTo(100);
 
 
