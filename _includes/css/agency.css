@@ -1085,6 +1085,9 @@ body {
   .display-none-mobile{
     display: none;
  }
+ .header-photo {
+    margin-top: 0px;
+ }
 }
 
 
