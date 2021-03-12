@@ -1045,8 +1045,7 @@ body {
     background-size: cover;
     background-position: center;
     padding: 125px 0px;
-    margin: 0px;
-    margin-top: 50px;
+    margin: 100px 0px;
     width: 100%; 
     background-attachment: fixed;
 }
@@ -1063,7 +1062,7 @@ body {
 .absolute-transform{
     transform: rotate(-90deg);
     position: absolute;
-    top: 250px;
+    top: 130px;
     left: -45px;
 }
 
@@ -1071,7 +1070,7 @@ body {
     position: absolute;
     left: -45px;
     transform: rotate(-90deg);
-    bottom: 1060px;
+    bottom: 1050px;
 }
 
 
