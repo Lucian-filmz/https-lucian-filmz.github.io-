@@ -1032,7 +1032,16 @@ body {
 }    
 
 .section-parallax{
-    background-image: url("img/photo-grid/DSC071234.jpg");
+    background-image: url("img/photo-grid/DJI_0371.jpg");
+    background-size: cover;
+    background-position: center;
+    padding: 125px 0px;
+    margin: 0px;
+    width: 100%; 
+    background-attachment: fixed;
+}
+.section-parallax-2{
+    background-image: url("img/photo-grid/DJI_0278.png");
     background-size: cover;
     background-position: center;
     padding: 125px 0px;
