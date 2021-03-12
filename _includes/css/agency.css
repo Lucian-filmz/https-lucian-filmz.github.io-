@@ -1020,7 +1020,7 @@ body {
     margin-bottom: 100px;
     padding: 0px !important;
 }
-#services img:first-of-type{
+.img-resize{
     width: 80px;
     margin: 0 auto;
 }
