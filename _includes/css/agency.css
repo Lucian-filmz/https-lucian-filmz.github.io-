@@ -1072,12 +1072,20 @@ body {
 
 .absolute-transform-2{
     position: absolute;
-    left: -45px;
+    left: -10px;
     transform: rotate(-90deg);
-    bottom: 1050px;
+    top: auto;
+    margin-top: 60px;
 }
 
-
+@media only screen and (max-width: 860px) {
+ .display-none-desktop{
+    display: block;
+ }
+  .display-none-mobile{
+    display: none;
+ }
+}
 
 /* END my CSS */    
     
