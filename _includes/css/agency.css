@@ -1102,8 +1102,15 @@ body {
 
 
 /* CSS SCROLL BAR */
+::selection {
+    background: #ff6207;
+}
+
 ::-webkit-scrollbar {
   width: 7px;
+}
+::-webkit-scrollbar:hover {
+  width: 10px;
 }
 
 ::-webkit-scrollbar-track {
@@ -1111,11 +1118,12 @@ body {
 }
 
 ::-webkit-scrollbar-thumb {
-  background: #888;
+  background: #ff6207;
+  border-radius: 5px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: #555;
+  background: #fff;
 }
 /* CSS SCROLL BAR */
 
