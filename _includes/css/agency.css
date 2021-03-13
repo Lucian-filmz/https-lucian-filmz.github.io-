@@ -692,8 +692,8 @@ aside.clients{
     background: black;
 }
 aside.clients img {
-    margin: 50px auto;
-    height: 175px;
+    margin: 0px auto;
+    height: auto;
 }
 
 .clients-grey-bg {
@@ -1088,6 +1088,21 @@ body {
  .header-photo {
     margin-top: 0px;
  }
+ #portfolio .portfolio-item .portfolio-caption h4 {
+    font-size: 15px;
+ }
+ #portfolio .portfolio-item .portfolio-caption {
+    padding: 16px 0px 0px 0px;
+    height: 60px;
+ }
+ .section-parallax{
+    background-attachment: initial;
+ }
+ .section-parallax-2{
+    background-attachment: initial;
+ }
+ .photo-grid{
+    flex-flow: row;
 }
 
 
