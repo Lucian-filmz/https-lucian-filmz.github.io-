@@ -1078,6 +1078,48 @@ body {
     margin-top: 60px;
 }
 
+.right-sliding-social{
+    z-index: 9999;
+    position: fixed;
+    right: 15px;
+    top: 40%;
+    font-size: 30px;
+}
+
+.social-bar {
+    background-color: #ff6207;
+    padding: 5px;
+    text-align: center;
+}
+
+.social-bar i {
+    color: #fff;
+}
+
+.social-bar i:hover {
+    color: #000;
+}
+
+
+/* CSS SCROLL BAR */
+::-webkit-scrollbar {
+  width: 7px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #888;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+/* CSS SCROLL BAR */
+
+
 @media only screen and (max-width: 860px) {
  .display-none-desktop{
     display: block;
@@ -1123,6 +1165,12 @@ body {
  }
  .img-resize {
     margin-top: 20px;
+ }
+ .right-sliding-social{
+    font-size: 25px;
+ }
+ .social-bar {
+     padding: 3px;
  }
 }
 
