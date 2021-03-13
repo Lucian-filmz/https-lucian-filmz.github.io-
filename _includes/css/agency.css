@@ -1104,7 +1104,7 @@ body {
  .photo-grid{
     flex-flow: row;
  }
- header {
+ header{
     height: 0px;
  }
  .videoWrapper{
