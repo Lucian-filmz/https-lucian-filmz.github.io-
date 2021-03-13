@@ -1121,6 +1121,9 @@ body {
  #services h2 {
     font-size: 50px;
  }
+ .img-resize {
+    margin-top: 20px;
+ }
 }
 
 
