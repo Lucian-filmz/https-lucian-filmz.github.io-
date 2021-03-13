@@ -1103,6 +1103,24 @@ body {
  }
  .photo-grid{
     flex-flow: row;
+ }
+ header {
+    height: 0px;
+ }
+ .videoWrapper{
+    height: 300px;
+ }
+ .responsive-iframe{
+    height: 300px;
+ }
+ .services-text {
+    margin: 0 auto;
+    width: auto;
+    font-size: 11px;
+  }
+ #services h2 {
+    font-size: 50px;
+ }
 }
 
 
