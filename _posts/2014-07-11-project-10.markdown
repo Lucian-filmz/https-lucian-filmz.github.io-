@@ -1,0 +1,15 @@
+---
+title: Medima Health | Virtutii
+subtitle: 
+layout: default
+modal-id: 10
+date: 2014-07-10
+img: 'https://www.youtube.com/embed/AEQ6-dQSCws?autoplay=0&mute=1&showinfo=0&loop=1&list=PL4ZHc1f3Rxy0yACvFJJRfHxcOE_4PGf0C&enablejsapi=1&amp'
+thumbnail: medima1.jpg
+alt: image-alt
+project-date: April 2014
+
+
+
+
+---

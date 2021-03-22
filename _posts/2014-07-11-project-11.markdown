@@ -1,0 +1,15 @@
+---
+title: Medima Health | Giulești
+subtitle: 
+layout: default
+modal-id: 11
+date: 2014-07-9
+img: 'https://www.youtube.com/embed/0Ry1pbIyxiM?autoplay=0&mute=1&showinfo=0&loop=1&list=PL4ZHc1f3Rxy1FJwlMNumq3elVS-ugeAnH&enablejsapi=1&amp'
+thumbnail: medima2.jpg
+alt: image-alt
+project-date: April 2014
+
+
+
+
+---
