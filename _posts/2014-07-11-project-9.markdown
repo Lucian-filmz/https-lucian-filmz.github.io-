@@ -3,7 +3,7 @@ title: Spectrum | Non-Destructive Testing
 subtitle: 
 layout: default
 modal-id: 9
-date: 2014-07-11
+date: 2014-07-14
 img: 'https://www.youtube.com/embed/Q-f7sXqQvfY?autoplay=1&mute=1&showinfo=0&loop=1&list=PL4ZHc1f3Rxy3Znr22slP8KEUnWuDSRrb6&enablejsapi=1&amp'
 thumbnail: spectrum.jpg
 alt: image-alt

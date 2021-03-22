@@ -1,0 +1,15 @@
+---
+title: Supermarket | La Cocoș
+subtitle: 
+layout: default
+modal-id: 13
+date: 2014-07-12
+img: 'https://www.youtube.com/embed/LC_ipZBI14g?autoplay=0&mute=1&showinfo=0&loop=1&list=PL4ZHc1f3Rxy0EfZRD2t443vrZlNpTyBdv&enablejsapi=1&amp'
+thumbnail: cocos.jpg
+alt: image-alt
+project-date: 2020
+
+
+
+
+---
